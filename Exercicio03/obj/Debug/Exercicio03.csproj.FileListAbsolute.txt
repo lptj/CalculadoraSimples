@@ -1,0 +1,22 @@
+D:\Esamc\3º Semestre\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Basic\Exercício 01\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe.config
+D:\Esamc\3º Semestre\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Basic\Exercício 01\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe
+D:\Esamc\3º Semestre\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Basic\Exercício 01\Exercicio03\Exercicio03\bin\Debug\Exercicio03.pdb
+D:\Esamc\3º Semestre\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Basic\Exercício 01\Exercicio03\Exercicio03\obj\Debug\Exercicio03.csprojResolveAssemblyReference.cache
+D:\Esamc\3º Semestre\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Basic\Exercício 01\Exercicio03\Exercicio03\obj\Debug\Exercicio03.exe
+D:\Esamc\3º Semestre\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Basic\Exercício 01\Exercicio03\Exercicio03\obj\Debug\Exercicio03.pdb
+E:\Esamc\3º Semestre\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Basic\Exercício 01\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe.config
+E:\Esamc\3º Semestre\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Basic\Exercício 01\Exercicio03\Exercicio03\obj\Debug\Exercicio03.exe
+E:\Esamc\3º Semestre\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Basic\Exercício 01\Exercicio03\Exercicio03\obj\Debug\Exercicio03.pdb
+E:\Esamc\3º Semestre\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Basic\Exercício 01\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe
+E:\Esamc\3º Semestre\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Basic\Exercício 01\Exercicio03\Exercicio03\bin\Debug\Exercicio03.pdb
+E:\Esamc\3º Semestre\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Basic\Exercício 01\Exercicio03\Exercicio03\obj\Debug\Exercicio03.csprojResolveAssemblyReference.cache
+F:\Esamc\3º Semestre\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Studio\Exercício 01\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe.config
+F:\Esamc\3º Semestre\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Studio\Exercício 01\Exercicio03\Exercicio03\obj\Debug\Exercicio03.exe
+F:\Esamc\3º Semestre\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Studio\Exercício 01\Exercicio03\Exercicio03\obj\Debug\Exercicio03.pdb
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Studio\Exercício 01\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe.config
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Studio\Exercício 01\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Studio\Exercício 01\Exercicio03\Exercicio03\bin\Debug\Exercicio03.pdb
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Studio\Exercício 01\Exercicio03\Exercicio03\obj\Debug\Exercicio03.csprojResolveAssemblyReference.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Studio\Exercício 01\Exercicio03\Exercicio03\obj\Debug\Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Studio\Exercício 01\Exercicio03\Exercicio03\obj\Debug\Exercicio03.exe
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\Introdução a Programação Orientada a Objetos\06 - 13-03-2017\Visual Studio\Exercício 01\Exercicio03\Exercicio03\obj\Debug\Exercicio03.pdb
